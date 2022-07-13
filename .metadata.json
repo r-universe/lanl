@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "NEONiso",
+    "oncran": true
+  }
+]
