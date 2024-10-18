@@ -5,3 +5,6 @@
 [submodule "NEONiso"]
 	path = NEONiso
 	url = https://github.com/lanl/neoniso
+[submodule "ezECM"]
+	path = ezECM
+	url = https://github.com/lanl/ezecm
